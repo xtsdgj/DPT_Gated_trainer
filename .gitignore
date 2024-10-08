@@ -1,0 +1,5 @@
+# 项目排除路径
+/checkpoints/24-Sep_12-34-nodebs1-tep50-lr5e-05-wd0.01-d98533d4-e9ba-4ea0-8ade-add2c601f380/
+/checkpoints/24-Sep_19-08-nodebs1-tep50-lr5e-05-wd0.01-781c0a36-d734-4fed-95ac-ebdd957a99bd/
+/checkpoints/25-Sep_16-53-nodebs1-tep50-lr5e-05-wd0.01-623286ac-becb-4824-be9b-72ebe968a120/
+/checkpoints/29-Sep_15-12-nodebs1-tep50-lr5e-05-wd0.01-b0e15a01-2fc8-4b8d-b82a-897ad9162dd4/
